@@ -12,10 +12,10 @@ Professional Full-Stack & Accessibility Developer Profile
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://boafo.co" target="_blank">
+  <a href="https://my-portfolio-ten-red-28.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/elvis-gyasi-owusu-0a4044193/" target="_blank">
@@ -38,16 +38,17 @@ Professional Full-Stack & Accessibility Developer Profile
 ---
 
 ## 🧠 About Me
+
 I’m a **Full-Stack Developer** passionate about creating **inclusive, high-performance web and mobile experiences** for everyone.  
-I specialize in **React, Next.js, TypeScript, and Node.js**, and I love building systems that **scale beautifully** while staying accessible to all.  
+I specialize in **React, Next.js, TypeScript, and Node.js**, and I love building systems that **scale beautifully** while staying accessible to all.
 
 > “Technology should empower, not exclude.”
 
-Currently working on **Boafo Accessibility Platform** — making the internet more inclusive across Africa 🌍  
+Currently working on **Boafo Accessibility Platform** — making the internet more inclusive across Africa 🌍
 
 ---
 
-## ⚙️ Skills & Tools  
+## ⚙️ Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -67,23 +68,24 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 ---
 
 ## ♿ Accessibility & AI Expertise
-- Integrated **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** APIs for inclusive browsing  
-- Built **Multilingual Summarizer** supporting 4 African languages (Twi, Ga, Ewe, Frafra)  
-- Developed **Boafo Accessibility Widget** – embeddable via npm/CDN for any website  
-- Implemented **Secure postMessage communication** for sandboxed extensions  
-- Designed for **WCAG compliance**, ensuring perceptibility and operability  
-- Currently developing **AI accessibility assistants** for real-time language adaptation  
+
+- Integrated **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** APIs for inclusive browsing
+- Built **Multilingual Summarizer** supporting 4 African languages (Twi, Ga, Ewe, Frafra)
+- Developed **Boafo Accessibility Widget** – embeddable via npm/CDN for any website
+- Implemented **Secure postMessage communication** for sandboxed extensions
+- Designed for **WCAG compliance**, ensuring perceptibility and operability
+- Currently developing **AI accessibility assistants** for real-time language adaptation
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Links |
-|----------|--------------|-------|
-| **🧠 Boafo Accessibility Platform** | AI-powered suite improving web accessibility (TTS, STT, Summarizer, Translator). | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
-| **🌾 MechAfrica Ecosystem** | Agricultural mechanization system for farmers and agents, built with Expo + Next.js. | [Organization](https://github.com/MechAfrica-Project) |
-| **💳 Foinda** | Fintech platform empowering African creators — built with Next.js + TypeScript. | [Repo](https://github.com/elvisowusu/foinda) |
-| **💡 Digital Drivers Technologies** | Accessibility-focused tech collective powering inclusive products like Boafo. | [Website](https://dd-tech.co) |
+| Project                             | Description                                                                          | Links                                                                                               |
+| ----------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| **🧠 Boafo Accessibility Platform** | AI-powered suite improving web accessibility (TTS, STT, Summarizer, Translator).     | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
+| **🌾 MechAfrica Ecosystem**         | Agricultural mechanization system for farmers and agents, built with Expo + Next.js. | [Organization](https://github.com/MechAfrica-Project)                                               |
+| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      | [Repo](https://github.com/elvisowusu/foinda)                                                        |
+| **💡 Digital Drivers Technologies** | Accessibility-focused tech collective powering inclusive products like Boafo.        | [Website](https://dd-tech.co)                                                                       |
 
 ---
 
@@ -97,7 +99,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 
 ---
 
-## 📈 GitHub Analytics  
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elvisowusu&show_icons=true&theme=radical" width="48%">
@@ -108,24 +110,13 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisowusu&theme=tokyo-night" alt="Elvis's activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisowusu&layout=compact&theme=radical" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elvisowusu&style=flat&color=brightgreen" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/elvisowusu?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/elvisowusu?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
-</p>
-
 ---
 
-## 📊 Developer Dashboard  
+## 📊 Developer Dashboard
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding_Stats-4F46E5?style=for-the-badge&logo=wakatime&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Activity-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Productivity-34A853?style=for-the-badge&logo=google-calendar&logoColor=white" />
 </p>
 
 <p align="center">
@@ -135,7 +126,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 ---
 
 ### 🕒 Weekly Coding Activity (Auto-Updating)
-<!-- AUTO-GENERATED SECTIONS BELOW: DO NOT EDIT MANUALLY -->
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -146,12 +137,13 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 ---
 
 ### 🔄 Latest GitHub Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elvisowusu&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
@@ -171,9 +163,10 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 
 ---
 
-## 💬 Motto  
-> “Design for inclusivity, build for scalability, and ship with purpose.”  
+## 💬 Motto
+
+> “Design for inclusivity, build for scalability, and ship with purpose.”
 
 ---
 
-⭐️ *From [@elvisowusu](https://github.com/elvisowusu) — Always building for accessibility and innovation.*
+⭐️ _From [@elvisowusu](https://github.com/elvisowusu) — Always building for accessibility and innovation._
