@@ -1,0 +1,63 @@
+name: "🕒 Update WakaTime Developer Stats"
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    name: Generate advanced WakaTime dashboard
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Generate WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGES: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          COMMIT_MESSAGE: "🕒 Update WakaTime advanced dashboard"
+
+      - name: Add dynamic timestamp to README
+        run: |
+          CURRENT_DATE=$(date -u +"%B %d, %Y — %H:%M UTC")
+          if grep -q "{{DATE}}" README.md; then
+            sed -i "s|{{DATE}}|$CURRENT_DATE|g" README.md
+          else
+            echo -e "\n⏰ Last updated automatically on: $CURRENT_DATE" >> README.md
+          fi
+
+      - name: Commit updated README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🕒 Update WakaTime stats & timestamp" || echo "No changes to commit"
+          git push

@@ -120,23 +120,42 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 
 ---
 
+## 📊 Developer Dashboard  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding_Stats-4F46E5?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Activity-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Productivity-34A853?style=for-the-badge&logo=google-calendar&logoColor=white" />
+</p>
+
+<p align="center">
+  <em>Real-time developer analytics powered by <a href="https://wakatime.com/@elvisowusu">WakaTime</a> & <a href="https://github.com/elvisowusu">GitHub</a>.</em>
+</p>
+
+---
+
+### 🕒 Weekly Coding Activity (Auto-Updating)
+<!-- AUTO-GENERATED SECTIONS BELOW: DO NOT EDIT MANUALLY -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  ⏰ <em>Last updated automatically by WakaTime & GitHub Actions — {{DATE}}</em>
+</p>
+
+---
+
+### 🔄 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elvisowusu&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 </p>
-
----
-
-## 📊 Weekly Coding Activity (Auto-Updating)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🧩 Latest GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
