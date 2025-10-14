@@ -32,7 +32,7 @@ Professional Full-Stack & Accessibility Developer Profile
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+from+Ghana+🇬🇭;Building+Accessible+and+Inclusive+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Designing+for+Humans+%F0%9F%92%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+from+Ghana+🇬🇭;_Building+Accessible+and+Inclusive+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Designing+for+Humans+%F0%9F%92%96" />
 </p>
 
 ---
