@@ -84,7 +84,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 | ----------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | **🧠 Boafo Accessibility Platform** | AI-powered suite improving web accessibility (TTS, STT, Summarizer, Translator).     | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
 | **🌾 MechAfrica Ecosystem**         | Agricultural mechanization system for farmers and agents, built with Expo + Next.js. | [Organization](https://github.com/MechAfrica-Project)                                               |
-| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      | [Repo](https://github.com/elvisowusu/foinda)                                                        |
+| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      |[🌐 Website](https://foinda.com) [Repo](https://github.com/elvisowusu/foinda)                                                        |
 | **💡 Digital Drivers Technologies** | Accessibility-focused tech collective powering inclusive products like Boafo.        | [Website](https://dd-tech.co)                                                                       |
 
 ---
