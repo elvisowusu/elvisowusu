@@ -96,20 +96,6 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
   <img src="https://img.shields.io/badge/Google_Prompting_Essentials-2025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeJS_Express_MongoDB-Advanced_Course-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvisowusu&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elvisowusu&theme=radical" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisowusu&theme=tokyo-night" alt="Elvis's activity graph" />
-</p>
-
 ---
 
 ## 📊 Developer Dashboard
