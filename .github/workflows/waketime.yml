@@ -44,6 +44,18 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git add README.md
-          git commit -m "🕒 Update WakaTime stats & timestamp" || echo "No changes to commit"
+          git commit -m "🕒 Update WakaTime stats & timestamp"
           git push
+
+      - name: Troubleshooting hints
+        if: failure()
+        run: |
+          echo "WakaTime update failed. Common fixes:"
+          echo "1) Ensure repo secret WAKATIME_API_KEY exists and is valid"
+          echo "2) Confirm recent coding activity within the selected TIME_RANGE"
+          echo "3) Verify the waka-readme action is reachable (GitHub status)"

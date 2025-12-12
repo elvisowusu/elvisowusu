@@ -10,6 +10,15 @@ Professional Full-Stack & Accessibility Developer Profile
   <em>Empowering the web through inclusive, accessible, and human-centered digital experiences.</em>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@elvisowusu" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-Dashboard-4F46E5?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Dashboard" />
+  </a>
+  <a href="https://github.com/elvisowusu/elvisowusu/actions/workflows/waketime.yml" target="_blank">
+    <img src="https://github.com/elvisowusu/elvisowusu/actions/workflows/waketime.yml/badge.svg" alt="WakaTime Workflow Status" />
+  </a>
+</p>
+
 ---
 
 ### 🌐 Connect With Me
