@@ -84,7 +84,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 | ----------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | **🧠 Boafo Accessibility Platform** | AI-powered suite improving web accessibility (TTS, STT, Summarizer, Translator).     | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
 | **🌾 MechAfrica Ecosystem**         | Agricultural mechanization system for farmers and agents, built with Expo + Next.js. | [Organization](https://github.com/MechAfrica-Project)                                               |
-| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      | [Repo](https://github.com/elvisowusu/foinda)                                                        |
+| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      |[🌐 Website](https://foinda.com) [Repo](https://github.com/elvisowusu/foinda)                                                        |
 | **💡 Digital Drivers Technologies** | Accessibility-focused tech collective powering inclusive products like Boafo.        | [Website](https://dd-tech.co)                                                                       |
 
 ---
@@ -96,59 +96,6 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
   <img src="https://img.shields.io/badge/Google_Prompting_Essentials-2025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeJS_Express_MongoDB-Advanced_Course-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvisowusu&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elvisowusu&theme=radical" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisowusu&theme=tokyo-night" alt="Elvis's activity graph" />
-</p>
-
----
-
-## 📊 Developer Dashboard
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding_Stats-4F46E5?style=for-the-badge&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Activity-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <em>Real-time developer analytics powered by <a href="https://wakatime.com/@elvisowusu">WakaTime</a> & <a href="https://github.com/elvisowusu">GitHub</a>.</em>
-</p>
-
----
-
-### 🕒 Weekly Coding Activity (Auto-Updating)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  ⏰ <em>Last updated automatically by WakaTime & GitHub Actions — {{DATE}}</em>
-</p>
-
----
-
-### 🔄 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elvisowusu&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
-</p>
-
 ---
 
 ## 🐍 Contribution Activity
