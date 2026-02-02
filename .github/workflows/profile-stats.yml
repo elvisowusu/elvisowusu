@@ -14,8 +14,12 @@ jobs:
 
       - name: Update profile README metrics
         uses: lowlighter/metrics@latest
+        # Prefer a user-provided PAT in `METRICS_TOKEN` when available
+        # (must have `repo` or `public_repo` scope). Otherwise fall back
+        # to the built-in `GITHUB_TOKEN` (requires Actions Workflow
+        # permissions set to Read and write).
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: elvisowusu
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Accra

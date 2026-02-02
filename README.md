@@ -126,3 +126,12 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 ---
 
 ⭐️ _From [@elvisowusu](https://github.com/elvisowusu) — Always building for accessibility and innovation._
+
+---
+
+## Actions secrets
+
+- **METRICS_TOKEN**: optional Personal Access Token (PAT). If you set this secret, the workflow will use it to commit generated metrics. The PAT must have `repo` (or `public_repo` for public repositories) scope and must be valid.
+- **GITHUB_TOKEN**: the workflow falls back to the built-in `GITHUB_TOKEN` when `METRICS_TOKEN` is not provided. Ensure repository Actions permissions are set to **Read and write** (Settings → Actions → General) so the workflow can push commits.
+
+If you prefer using a PAT, create one, add it to the repository secrets as `METRICS_TOKEN`, and keep `Workflow permissions` as needed. If you rely on `GITHUB_TOKEN`, set Actions permissions to allow write access.
