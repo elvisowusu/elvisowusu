@@ -84,6 +84,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 - Implemented **Secure postMessage communication** for sandboxed extensions
 - Designed for **WCAG compliance**, ensuring perceptibility and operability
 - Currently developing **AI accessibility assistants** for real-time language adaptation
+- Built **AI agents** for task automation and accessibility workflows
 
 ---
 
@@ -91,10 +92,10 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 
 | Project | Description | Links |
 | ------- | ----------- | ----- |
-| **🏠 Hostella** | Platform work for Hostella — bookings and property management. | [🌐 Website](https://hostellapp.com/) |
-| **🌾 MechAfrica** | Agricultural mechanization platform for farmers, service providers and agents (organization work). | [🌐 Website](https://mechafrica.com/) |
-| **🧠 Boafo Accessibility Widget** | Embeddable accessibility widget with TTS, STT, summarizer, and translator. | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
-| **✝️ Evangelism Platform** | Church evangelism and community engagement platform. | [🌐 Website](https://alpha-evangelism-platform.vercel.app/) |
+| **🏠 Hostella** | Platform work for Hostella — bookings and property management. | <a href="https://hostellapp.com/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
+| **🌾 MechAfrica** | Agricultural mechanization platform for farmers, service providers and agents (organization work). | <a href="https://mechafrica.com/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
+| **🧠 Boafo Accessibility Widget** | Embeddable accessibility widget with TTS, STT, summarizer, and translator. | <a href="https://boafo.co" target="_blank" rel="noopener noreferrer">🌐 Website</a> · <a href="https://www.npmjs.com/package/boafo-accessibility-widget" target="_blank" rel="noopener noreferrer">📦 npm</a> |
+| **✝️ Evangelism Platform** | Church evangelism and community engagement platform. | <a href="https://alpha-evangelism-platform.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
 
 ---
 
@@ -105,6 +106,7 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
   <img src="https://img.shields.io/badge/Google_Prompting_Essentials-2025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeJS_Express_MongoDB-Advanced_Course-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+<p align="center">Prompt Engineering Certificate — Google</p>
 ---
 
 ## 🐍 Contribution Activity
