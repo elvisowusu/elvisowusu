@@ -89,12 +89,12 @@ Currently working on **Boafo Accessibility Platform** — making the internet mo
 
 ## 🚀 Featured Projects
 
-| Project                             | Description                                                                          | Links                                                                                               |
-| ----------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| **🧠 Boafo Accessibility Platform** | AI-powered suite improving web accessibility (TTS, STT, Summarizer, Translator).     | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
-| **🌾 MechAfrica Ecosystem**         | Agricultural mechanization system for farmers and agents, built with Expo + Next.js. | [Organization](https://github.com/MechAfrica-Project)                                               |
-| **💳 Foinda**                       | Fintech platform empowering African creators — built with Next.js + TypeScript.      |[🌐 Website](https://foinda.com) [Repo](https://github.com/elvisowusu/foinda)                                                        |
-| **💡 Digital Drivers Technologies** | Accessibility-focused tech collective powering inclusive products like Boafo.        | [Website](https://dd-tech.co)                                                                       |
+| Project | Description | Links |
+| ------- | ----------- | ----- |
+| **🏠 Hostella** | Platform work for Hostella — bookings and property management. | [🌐 Website](https://hostellapp.com/) |
+| **🌾 MechAfrica** | Agricultural mechanization platform for farmers, service providers and agents (organization work). | [🌐 Website](https://mechafrica.com/) |
+| **🧠 Boafo Accessibility Widget** | Embeddable accessibility widget with TTS, STT, summarizer, and translator. | [🌐 Website](https://boafo.co) · [📦 npm](https://www.npmjs.com/package/boafo-accessibility-widget) |
+| **✝️ Evangelism Platform** | Church evangelism and community engagement platform. | [🌐 Website](https://alpha-evangelism-platform.vercel.app/) |
 
 ---
 
