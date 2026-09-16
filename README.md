@@ -1,139 +1,83 @@
-<!--
-README: Elvis Gyasi Owusu
-Professional Full-Stack & Accessibility Developer Profile
--->
+# Elvis Gyasi Owusu
 
-<h1 align="center">👋🏾 Hey, I'm <span style="color:#4F46E5;">Elvis Gyasi Owusu</span></h1>
-<h3 align="center">Full-Stack & Accessibility Developer | React ⚛️ • Next.js ⚙️ • TypeScript 🦾 • Inclusive Web 🌍</h3>
+### I build digital infrastructure for Africa—and study how intelligent systems behave.
 
-<p align="center">
-  <em>Empowering the web through inclusive, accessible, and human-centered digital experiences.</em>
-</p>
+I am a Ghana-based **founder, AI systems engineer, and researcher**. I lead products from research and architecture through field deployment, with a focus on agriculture, accessibility, commerce, and low-connectivity environments.
 
-<p align="center">
-  <a href="https://wakatime.com/@elvisowusu" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-Dashboard-4F46E5?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Dashboard" />
-  </a>
-  <a href="https://github.com/elvisowusu/elvisowusu/actions/workflows/waketime.yml" target="_blank">
-    <img src="https://github.com/elvisowusu/elvisowusu/actions/workflows/waketime.yml/badge.svg" alt="WakaTime Workflow Status" />
-  </a>
-</p>
+[Portfolio](https://www.eldev.me/) · [LinkedIn](https://www.linkedin.com/in/elvis-gyasi-owusu-0a4044193/) · [ORCID](https://orcid.org/0009-0003-0162-7921) · [X](https://x.com/elvis_o_gyasi) · [Email](mailto:elvisgyasiowusu24@gmail.com)
 
----
+## What I do
 
-### 🌐 Connect With Me
+- **Founder:** I turn difficult local problems into durable products, teams, and partnerships through MechLink, MechAfrica, and Optomus.
+- **Engineer:** I architect and ship full-stack, AI-enabled, and offline-first systems—from field applications and USSD to secure multi-tenant platforms.
+- **Researcher:** I study language-model evaluation and behaviour, African-language AI, and computing under unreliable connectivity.
 
-<p align="center">
-  <a href="https://my-portfolio-ten-red-28.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/elvis-gyasi-owusu-0a4044193/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elvisgyasiowusu24@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/elvisowusu" target="_blank">
-    <img src="https://img.shields.io/badge/☕ Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
+## Selected impact
 
----
+| 21,759 | 3,554 | 100+ | 2 |
+| ---: | ---: | ---: | ---: |
+| farmers reached | service providers | sites made accessible | AI research preprints |
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+from+Ghana+🇬🇭;__Building+Accessible+and+Inclusive+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Designing+for+Humans+%F0%9F%92%96" />
-</p>
+## Current work
 
----
+### MechLink / MechAfrica
 
-## 🧠 About Me
+**Co-founder, CEO & technical lead · 2022—Present**
 
-I’m a **Full-Stack Developer** passionate about creating **inclusive, high-performance web and mobile experiences** for everyone.  
-I specialize in **React, Next.js, TypeScript, and Node.js**, and I love building systems that **scale beautifully** while staying accessible to all.
+Building offline-first agricultural service infrastructure that connects farmers, mechanisation providers, and field teams through mobile applications, USSD, SMS, and Mobile Money. The platform has reached 21,759 farmers and 3,554 service providers across nine regions.
 
-> “Technology should empower, not exclude.”
+`Go` `PostgreSQL` `React Native` `Next.js` `USSD`
 
-Currently working on **Boafo Accessibility Platform** — making the internet more inclusive across Africa 🌍
+[Visit MechAfrica](https://mechafrica.com/)
 
----
+### Optomus
 
-## ⚙️ Skills & Tools
+**Founder & systems architect · 2026—Present**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-121212?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+Building a multi-tenant AI orchestration platform for content planning, generation, approvals, publishing, engagement, analytics, and lead qualification across social platforms.
 
----
+`FastAPI` `PostgreSQL` `Redis` `Celery` `Next.js`
 
-## ♿ Accessibility & AI Expertise
+[Visit Optomus](https://optomusai.com/)
 
-- Integrated **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** APIs for inclusive browsing
-- Built **Multilingual Summarizer** supporting 4 African languages (Twi, Ga, Ewe, Frafra)
-- Developed **Boafo Accessibility Widget** – embeddable via npm/CDN for any website
-- Implemented **Secure postMessage communication** for sandboxed extensions
-- Designed for **WCAG compliance**, ensuring perceptibility and operability
-- Currently developing **AI accessibility assistants** for real-time language adaptation
-- Built **AI agents** for task automation and accessibility workflows
+## Selected systems
 
----
+| Project | Role and contribution | Stack |
+| --- | --- | --- |
+| [Euodia Consulting](https://www.euodiaconsulting.com/) | Full-stack platform developer; public consulting site, secure administration, content and enquiry workflows, first-party analytics | Next.js, Neon, Vercel Blob, Resend |
+| [Boafo Accessibility](https://www.npmjs.com/package/boafo-accessibility-widget) | Technical lead; speech, translation, summarisation, contrast, and interface adaptation across 100+ websites | React, Node.js, Chrome APIs, AI integrations |
+| [CampSafe](https://github.com/elvisowusu/campusSecurity_StudentApp) | Researcher and full-stack engineer; paired safety apps with location-based anomaly detection | Flutter, Python, scikit-learn, Firebase |
+| [Hostella](https://hostellapp.com/) | Project lead; connected student, administrator, and super-administrator accommodation platforms | Next.js, TypeScript, Jest |
 
-## 🚀 Featured Projects
+[Explore the full project archive →](https://www.eldev.me/#work)
 
-| Project | Description | Links |
-| ------- | ----------- | ----- |
-| **🏠 Hostella** | Platform work for Hostella — bookings and property management. | <a href="https://hostellapp.com/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
-| **🌾 MechAfrica** | Agricultural mechanization platform for farmers, service providers and agents (organization work). | <a href="https://mechafrica.com/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
-| **🧠 Boafo Accessibility Widget** | Embeddable accessibility widget with TTS, STT, summarizer, and translator. | <a href="https://boafo.co" target="_blank" rel="noopener noreferrer">🌐 Website</a> · <a href="https://www.npmjs.com/package/boafo-accessibility-widget" target="_blank" rel="noopener noreferrer">📦 npm</a> |
-| **✝️ Evangelism Platform** | Church evangelism and community engagement platform. | <a href="https://alpha-evangelism-platform.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
+## Research
 
----
+My research interests include trustworthy LLM evaluation, African-language NLP, applied machine learning, and intelligent systems that remain useful under limited connectivity and sparse data.
 
-## 🧾 Certifications
+### 2026 preprints
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Project_Management-Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Prompting_Essentials-2025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS_Express_MongoDB-Advanced_Course-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p align="center">Prompt Engineering Certificate — Google</p>
----
+- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://www.eldev.me/research/who-judges-matters-preprint.pdf)**
 
-## 🐍 Contribution Activity
+  David Ababio Awuni, Luke E. K. Achenie, Benjamin Tei Partey, **Elvis Gyasi Owusu**, and Nii-Nai Derrick Sowah.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://www.eldev.me/research/afrsyco-preprint.pdf)**
 
----
+  David Ababio Awuni, Rose-Mary Owusuaa Mensah Gyening, and **Elvis Gyasi Owusu**.
 
-## 💬 Motto
+## Technical focus
 
-> “Design for inclusivity, build for scalability, and ship with purpose.”
+`Python` `Go` `TypeScript` `JavaScript` `Dart` `SQL`
 
----
+`FastAPI` `Node.js` `Next.js` `React` `React Native` `Flutter`
 
-⭐️ _From [@elvisowusu](https://github.com/elvisowusu) — Always building for accessibility and innovation._
+`PostgreSQL` `Redis` `Supabase` `Firebase` `Docker`
 
----
+`LLM evaluation` `Agentic workflows` `Offline-first systems` `Accessible interfaces`
 
-## Actions secrets
+## Open to collaboration
 
-- **METRICS_TOKEN**: optional Personal Access Token (PAT). If you set this secret, the workflow will use it to commit generated metrics. The PAT must have `repo` (or `public_repo` for public repositories) scope and must be valid.
-- **GITHUB_TOKEN**: the workflow falls back to the built-in `GITHUB_TOKEN` when `METRICS_TOKEN` is not provided. Ensure repository Actions permissions are set to **Read and write** (Settings → Actions → General) so the workflow can push commits.
+I am open to engineering and research collaborations, graduate opportunities, and work at the intersection of AI systems, digital infrastructure, agriculture, accessibility, and emerging markets.
 
-If you prefer using a PAT, create one, add it to the repository secrets as `METRICS_TOKEN`, and keep `Workflow permissions` as needed. If you rely on `GITHUB_TOKEN`, set Actions permissions to allow write access.
+- **Email:** [elvisgyasiowusu24@gmail.com](mailto:elvisgyasiowusu24@gmail.com)
+- **CV and full profile:** [eldev.me](https://www.eldev.me/)
