@@ -16,7 +16,7 @@ I am a Ghana-based **founder, AI systems engineer, and researcher**. I lead prod
 
 | 21,759 | 3,554 | 100+ | 2 |
 | ---: | ---: | ---: | ---: |
-| farmers reached | service providers | sites made accessible | AI research preprints |
+| farmers reached | service providers | sites made accessible | arXiv preprints |
 
 ## Current work
 
@@ -55,15 +55,21 @@ Building a multi-tenant AI orchestration platform for content planning, generati
 
 My research interests include trustworthy LLM evaluation, African-language NLP, applied machine learning, and intelligent systems that remain useful under limited connectivity and sparse data.
 
-### 2026 preprints
+### 2026 arXiv preprints
 
-- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://www.eldev.me/research/who-judges-matters-preprint.pdf)**
+- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://arxiv.org/abs/2609.17857)**
 
   David Ababio Awuni, Luke E. K. Achenie, Benjamin Tei Partey, **Elvis Gyasi Owusu**, and Nii-Nai Derrick Sowah.
 
-- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://www.eldev.me/research/afrsyco-preprint.pdf)**
+- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://arxiv.org/abs/2609.17853)**
 
   David Ababio Awuni, Rose-Mary Owusuaa Mensah Gyening, and **Elvis Gyasi Owusu**.
+
+## Selected certifications
+
+- [Google Project Management Professional Certificate](https://www.credly.com/badges/dde01f13-03b5-4d3c-a61e-8fbbeebe4b57/public_url) — Google/Coursera, January 2026; the Credly credential includes FIBAA and American Council on Education endorsements.
+- [Google Prompting Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/6THC9ZJM79BC) — Google/Coursera, September 2025.
+- [Automate Tasks and Processes with Jira](https://www.coursera.org/account/accomplishments/verify/6URDP7KYIRUA) — Coursera, September 2026.
 
 ## Technical focus
 
