@@ -13,7 +13,9 @@ jobs:
       contents: write
     steps:
       - name: Update profile README metrics
-        uses: lowlighter/metrics@latest
+        # Pin the action to the exact revision verified by the successful
+        # 2026-09-17 run. Do not switch this back to a mutable tag.
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           # Metrics needs a user token for account-wide activity reads.
           # The short-lived workflow token is used separately for writes.
