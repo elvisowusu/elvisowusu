@@ -8,18 +8,18 @@ on:
 jobs:
   update-profile-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Update profile README metrics
         uses: lowlighter/metrics@latest
-        # Prefer a user-provided PAT in `METRICS_TOKEN` when available
-        # (must have `repo` or `public_repo` scope). Otherwise fall back
-        # to the built-in `GITHUB_TOKEN` (requires Actions Workflow
-        # permissions set to Read and write).
         with:
-          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Metrics needs a user token for account-wide activity reads.
+          # The short-lived workflow token is used separately for writes.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          filename: metrics.svg
           user: elvisowusu
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Accra
@@ -34,12 +34,3 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           output_action: commit
-
-      - name: Push metrics to repository
-        if: always()
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "♻️ Update GitHub profile metrics"
-          file_pattern: "metrics.svg"
-          skip_fetch: false
-          skip_checkout: false
