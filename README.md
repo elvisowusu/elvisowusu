@@ -53,7 +53,11 @@ Building a multi-tenant AI orchestration platform for content planning, generati
 
 ## Research
 
-My research interests include trustworthy LLM evaluation, African-language NLP, applied machine learning, and intelligent systems that remain useful under limited connectivity and sparse data.
+My research asks how much of a measured result comes from the evaluation apparatus rather than the model.
+
+- **Measurement validity in LLM evaluation** — separating what judge identity, panel composition, option order and prompt realisation contribute from the capability being measured.
+- **Evaluation under linguistic scarcity** — sycophancy, answer switching and framing sensitivity in African-language settings, where few benchmarks and little annotator redundancy leave measurement error undetected.
+- **AI for agriculture under infrastructure constraint** — whether robustness measured on a benchmark predicts behaviour in the field, studied through offline-first systems reaching smallholder farmers over SMS, USSD and Mobile Money.
 
 ### 2026 arXiv preprints
 
