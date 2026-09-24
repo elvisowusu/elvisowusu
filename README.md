@@ -49,7 +49,7 @@ Building a multi-tenant AI orchestration platform for content planning, generati
 | [CampSafe](https://github.com/elvisowusu/campusSecurity_StudentApp) | Researcher and full-stack engineer; paired safety apps with location-based anomaly detection | Flutter, Python, scikit-learn, Firebase |
 | [Hostella](https://hostellapp.com/) | Project lead; connected student, administrator, and super-administrator accommodation platforms | Next.js, TypeScript, Jest |
 
-[Explore the full project archive →](https://www.eldev.me/#work)
+[Explore the full project archive →](https://www.eldev.me/#projects)
 
 ## Research
 
