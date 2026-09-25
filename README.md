@@ -1,8 +1,8 @@
 # Elvis Gyasi Owusu
 
-### I build digital infrastructure for Africa—and study how intelligent systems behave.
+### I build reliable, inclusive digital systems—and study how AI evaluations earn trust.
 
-I am a Ghana-based **founder, AI systems engineer, and researcher**. I lead products from research and architecture through field deployment, with a focus on agriculture, accessibility, commerce, and low-connectivity environments.
+I am a Ghanaian **technology founder, software engineer, and researcher**. I lead products from research and architecture through field deployment, connecting reliable AI evaluation with smallholder agriculture, accessibility, and software designed for low-connectivity environments.
 
 [Portfolio](https://www.eldev.me/) · [LinkedIn](https://www.linkedin.com/in/elvis-gyasi-owusu-0a4044193/) · [ORCID](https://orcid.org/0009-0003-0162-7921) · [X](https://x.com/elvis_o_gyasi) · [Email](mailto:elvisgyasiowusu24@gmail.com)
 
@@ -10,13 +10,13 @@ I am a Ghana-based **founder, AI systems engineer, and researcher**. I lead prod
 
 - **Founder:** I turn difficult local problems into durable products, teams, and partnerships through MechLink, MechAfrica, and Optomus.
 - **Engineer:** I architect and ship full-stack, AI-enabled, and offline-first systems—from field applications and USSD to secure multi-tenant platforms.
-- **Researcher:** I study language-model evaluation and behaviour, African-language AI, and computing under unreliable connectivity.
+- **Researcher:** I study reliable AI evaluation, AI and digital systems for smallholder agriculture, and inclusive software systems.
 
 ## Selected impact
 
 | 21,759 | 3,554 | 100+ | 2 |
 | ---: | ---: | ---: | ---: |
-| farmers reached | service providers | sites made accessible | arXiv preprints |
+| registered farmers | service providers | sites made accessible | arXiv preprints |
 
 ## Current work
 
@@ -24,7 +24,7 @@ I am a Ghana-based **founder, AI systems engineer, and researcher**. I lead prod
 
 **Co-founder, CEO & technical lead · 2022—Present**
 
-Building offline-first agricultural service infrastructure that connects farmers, mechanisation providers, and field teams through mobile applications, USSD, SMS, and Mobile Money. The platform has reached 21,759 farmers and 3,554 service providers across nine regions.
+Building offline-first agricultural service infrastructure that connects farmers, mechanisation providers, and field teams through mobile applications, USSD, SMS, and Mobile Money. The platform has registered 21,759 farmers and 3,554 service providers across nine regions.
 
 `Go` `PostgreSQL` `React Native` `Next.js` `USSD`
 
@@ -53,11 +53,11 @@ Building a multi-tenant AI orchestration platform for content planning, generati
 
 ## Research
 
-My research asks how much of a measured result comes from the evaluation apparatus rather than the model.
+My research connects trustworthy AI evaluation with the design of useful systems for real-world conditions.
 
-- **Measurement validity in LLM evaluation** — separating what judge identity, panel composition, option order and prompt realisation contribute from the capability being measured.
-- **Evaluation under linguistic scarcity** — sycophancy, answer switching and framing sensitivity in African-language settings, where few benchmarks and little annotator redundancy leave measurement error undetected.
-- **AI for agriculture under infrastructure constraint** — whether robustness measured on a benchmark predicts behaviour in the field, studied through offline-first systems reaching smallholder farmers over SMS, USSD and Mobile Money.
+- **Reliable AI evaluation** — studying how judge identity, panel composition, prompting, ordering and linguistic context influence measured model behaviour.
+- **AI and digital systems for smallholder agriculture** — building and evaluating practical tools that support farmers, service providers and field teams under infrastructure constraints.
+- **Inclusive software systems** — designing accessible, offline-capable products that remain useful across languages, devices and unreliable networks.
 
 ### 2026 arXiv preprints
 
