@@ -4,7 +4,7 @@
 
 I am a Ghanaian **technology founder, software engineer, and researcher**. I lead products from research and architecture through field deployment, connecting reliable AI evaluation with smallholder agriculture, accessibility, and software designed for low-connectivity environments.
 
-[Portfolio](https://www.eldev.me/) · [LinkedIn](https://www.linkedin.com/in/elvis-gyasi-owusu-0a4044193/) · [ORCID](https://orcid.org/0009-0003-0162-7921) · [X](https://x.com/elvis_o_gyasi) · [Email](mailto:elvisgyasiowusu24@gmail.com)
+[Portfolio](https://www.eldev.me/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=kcjunnkAAAAJ) · [ORCID](https://orcid.org/0009-0003-0162-7921) · [LinkedIn](https://www.linkedin.com/in/elvis-gyasi-owusu-0a4044193/) · [X](https://x.com/elvis_o_gyasi) · [Email](mailto:elvisgyasiowusu24@gmail.com)
 
 ## What I do
 
@@ -65,9 +65,13 @@ My research connects trustworthy AI evaluation with the design of useful systems
 
   David Ababio Awuni, Luke E. K. Achenie, Benjamin Tei Partey, **Elvis Gyasi Owusu**, and Nii-Nai Derrick Sowah.
 
-- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://arxiv.org/abs/2609.17853)**
+  *Manuscript under review at TACL; submitted September 2026.*
+
+- **AfriSyCo: Factorially Separating Assertive Framing and Verification in African-Language Answer Switching**
 
   David Ababio Awuni, Rose-Mary Owusuaa Mensah Gyening, and **Elvis Gyasi Owusu**.
+
+  *Manuscript under review at ACL Rolling Review, October 2026 cycle (Submission 218). [Preprint version on arXiv](https://arxiv.org/abs/2609.17853) under the earlier title “AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content.”*
 
 ## Selected certifications
 
